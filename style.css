@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(72, 81, 255);
+    min-height: 100vh;
+    display: grid;
+}
+
+main {
+    background-color: rgba(11, 82, 87, 0.893);
+    min-height: 100vh;
+
+}
+
+.start-image {
+    width: 80%;
+    margin: auto;
+}
+
+.start-image img {
+    width: 100%;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: rgba(248, 248, 255, 0.683);
+    text-decoration: underline;
+}
+
+p {
+
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+.hollow {
+    font-style: oblique;
+    color: rgb(32, 129, 215);
+    text-align: center;
+}
+
+.peepee {
+
+    background-color: rgb(0, 0, 0);
+
+    margin-top: 0;
+
+}
+
+.poopoo {
+    margin: -20px 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+.centered img {
+    border-radius: 5px;
+    border-color: rgb(0, 0, 0);
+}
+
+.centered {
+    background-color: rgb(0, 0, 0);
+    width: fit-content +1px;
+    padding: 2px;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    height: 100%;
+}
+
+.corner {
+    size: 20px;
+
+}
+
+article {
+    background-color: rgb(0, 0, 0);
+
+}
+
+h2 {
+    color: rgb(204, 206, 247);
+}
+
+h3 {
+    text-align: center;
+    font-size: 40px;
+
+}
+
+.lolxd {
+    display: grid;
+    grid-template-columns: 1fr;
+}
